@@ -19,11 +19,17 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 ## Tech Stack
 
 **Front-End:** HTML, TailwindCSS, Frameworks (React, Astro)
+
 **Back-End:** Python, JavaScript (Next.js, Node.js, Vite.js)
+
 **Databases:** SQL, no-code database solutions (like Airtable)
+
 **Infrastructure:** Self-hosting, Coolify, Docker, Linux administration
+
 **Automation:** Python Selenium scripting, n8n
+
 **UI/UX:** Adobe suite (XD, Photoshop, Illustrator, Premiere, Lightroom)
+
 **Tooling:** Git, Bash/CLI — comfortable on Linux, Windows, and macOS
 
 ---
@@ -31,8 +37,11 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 ## Skills
 
 **Technical focus areas:** full-stack web development, workflow automation, self-hosted infrastructure, system administration
+
 **Domain knowledge:** SEO, social media marketing, sales, Google and Meta advertisement
+
 **Languages:** English (C1 proficient), Czech (native)
+
 **How I work:** I tend toward analytical, structured problem solving with a bias for getting things done. I value clear goals, honest feedback, and continuous improvement. I adapt well across technical and non-technical contexts.
 
 ---
