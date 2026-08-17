@@ -22,7 +22,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Back-End:** Python, JavaScript (Next.js, Node.js, Vite.js)
 
-**Databases:** SQL, no-code database solutions (like Airtable)
+**Databases:** SQL, no-code database solutions (like Airtable), Supabase
 
 **Infrastructure:** Self-hosting, Coolify, Docker, Linux administration
 
@@ -30,7 +30,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **UI/UX:** Adobe suite (XD, Photoshop, Illustrator, Premiere, Lightroom)
 
-**Tooling:** Git, Bash/CLI — comfortable on Linux, Windows, and macOS
+**Tooling:** Git, Docker, Bash/CLI — comfortable on Linux, Windows, and macOS
 
 ---
 
