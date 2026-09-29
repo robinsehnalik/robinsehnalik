@@ -22,7 +22,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Back-End:** Python, JavaScript (Next.js, Node.js, Vite.js)
 
-**Databases:** SQL, no-code database solutions (like Airtable), Supabase
+**Databases:** PostgreSQL, no-code database solutions (like Airtable), Supabase
 
 **Infrastructure:** Self-hosting, Coolify, Docker, Linux administration
 
