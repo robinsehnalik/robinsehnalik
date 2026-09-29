@@ -4,7 +4,7 @@
 
 I build web applications, automation pipelines and digital business infrastructure. I am mostly drawn to projects that require constructing complex systems to make our lifes faster and easier but I also enjoy unleashing my creativity while designing layouts and front-end's.
 
-Website: [sehnalik.com](https://sehnalik.com)
+Discover more about my work: [sehnalik.com](https://sehnalik.com)
 
 ---
 
@@ -36,7 +36,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 ## Skills
 
-**Technical focus areas:** full-stack web development, workflow automation, self-hosted infrastructure, system administration
+**Technical focus areas:** full-stack web development, workflow automation, business growth and lead tracking
 
 **Domain knowledge:** SEO, social media marketing, sales, Google and Meta advertisement
 
@@ -50,7 +50,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 Notable public projects — expanding as work is published. Visit my [GitHub profile](https://github.com/robinsehnalik) for the latest.
 
-**Screenshot Notes Procesor**: [notedump](https://github.com/robinsehnalik/notedump) Python, Google AI API
+**Interactive Component Library**: [componentlibrary](https://github.com/robinsehnalik/componentlibrary) HTML, Typescript, TailwindCSS
 
 > Descriptions, tech stack breakdowns, and links will be listed here as projects are released.
 
