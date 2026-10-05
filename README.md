@@ -46,16 +46,6 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 ---
 
-## Projects
-
-Notable public projects — expanding as work is published. Visit my [GitHub profile](https://github.com/robinsehnalik) for the latest.
-
-**Interactive Component Library**: [componentlibrary](https://github.com/robinsehnalik/componentlibrary) HTML, Typescript, TailwindCSS
-
-> Descriptions, tech stack breakdowns, and links will be listed here as projects are released.
-
----
-
 ## Contact
 
 Open to contract work and technical collaborations.
