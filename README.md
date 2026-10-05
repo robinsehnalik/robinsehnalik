@@ -28,7 +28,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Automation:** Python Selenium scripting, n8n
 
-**UI/UX:** Adobe suite (XD, Photoshop, Illustrator, Premiere, Lightroom)
+**UI/UX:** Adobe suite (XD, Photoshop, Illustrator, Premiere, Lightroom), Figma
 
 **Tooling:** Git, Docker, Bash/CLI — comfortable on Linux, Windows, and macOS
 
