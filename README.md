@@ -20,7 +20,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Front-End:** HTML, TailwindCSS, Frameworks (React, Astro)
 
-**Back-End:** Python, JavaScript (Next.js, Node.js, Vite.js)
+**Back-End:** Python, TypeScript (Node.js)
 
 **Databases:** PostgreSQL, no-code database solutions (like Airtable), Supabase
 
