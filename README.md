@@ -2,7 +2,7 @@
 
 **Full-stack Developer**
 
-I build web applications, automation pipelines and digital business infrastructure. I am mostly drawn to projects that require constructing complex systems to make our lifes faster and easier but I also enjoy unleashing my creativity while designing layouts and front-end's.
+I build web applications, automation pipelines and digital business infrastructure. I am drawn to projects that require constructing complex systems to make our lifes faster or easier. I also enjoy unleashing my creativity while designing layouts and front-end's.
 
 Discover more about my work: [sehnalik.com](https://sehnalik.com)
 
@@ -38,7 +38,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Technical focus areas:** full-stack web development, workflow automation, business growth and lead tracking
 
-**Domain knowledge:** SEO, social media marketing, sales, Google and Meta advertisement
+**Domain knowledge:** SEO, social media marketing, sales, Google and Meta advertisement, design and branding, copywriting
 
 **Languages:** English (C1 proficient), Czech (native)
 
