@@ -30,7 +30,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **UI/UX:** Adobe suite (XD, Photoshop, Illustrator, Premiere, Lightroom), Figma
 
-**Tooling:** Git, Docker, Bash/CLI — comfortable on Linux, Windows, and macOS
+**Tooling:** Git, Docker, Bash/CLI — comfortable on Linux and macOS
 
 ---
 
