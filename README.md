@@ -42,7 +42,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Languages:** English (C1 proficient), Czech (native)
 
-**How I work:** I tend toward analytical, structured problem solving with a bias for getting things done. I value clear goals, honest feedback, and continuous improvement. I adapt well across technical and non-technical contexts.
+**How I work:** I tend toward analytical, structured problem solving with a bias for getting things done. I value clear goals, honest feedback, and continuous improvement.
 
 ---
 
