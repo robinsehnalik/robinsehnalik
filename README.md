@@ -24,7 +24,7 @@ In my personal life I enjoy adventurous travelling, delicious food, music and co
 
 **Databases:** PostgreSQL, no-code database solutions (like Airtable), Supabase
 
-**Infrastructure:** Self-hosting, Coolify, Docker, Linux administration
+**Infrastructure:** Self-hosting (Coolify, Google Cloud), Docker, Linux administration
 
 **Automation:** Python Selenium scripting, n8n
 
